@@ -104,7 +104,7 @@ jobs:
          - /outputs/pretrainedNetwork
        image: alpine:latest
       
-   #5. Show generating images using pretrained car model
+   #5.  Show generating images using pretrained car model
 
    generateCarImagesPretrainedModel:
      resources:
